@@ -1,6 +1,6 @@
 # gims-parsing
 
-Parse GIMS PDF-based PGx reports :page_facing_up: to stuctured :star: alleles.
+Parse GIMS PDF-based PGx reports :page_facing_up: to stuctured :star: star alleles.
 
 The `gimsParsing.py` script reads all PDF files provided in the `data` directory and creates JSON files containing star allele information in the `results` directory.
 
