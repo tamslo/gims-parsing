@@ -1,4 +1,4 @@
-# gims-parsing
+# GIMS Parsing
 
 Parse GIMS :page_facing_up: PDF-based PGx reports to stuctured :star: star alleles.
 
