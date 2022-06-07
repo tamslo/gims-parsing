@@ -2,3 +2,7 @@ data/*.pdf
 results/*.json
 
 .DS_Store
+
+# Python
+
+__pycache__
